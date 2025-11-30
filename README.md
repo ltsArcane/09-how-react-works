@@ -1,4 +1,4 @@
-# Lore:
+# Theory:
 
 Components = function Tab({}) { ... }
 A blueprint or template.
